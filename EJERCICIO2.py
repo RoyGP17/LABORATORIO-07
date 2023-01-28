@@ -1,0 +1,2 @@
+def longitud():
+    texto = """"""
